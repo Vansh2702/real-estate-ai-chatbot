@@ -1,1 +1,12 @@
 venv/
+# AWS CLI files (installer and temp folders)
+aws/
+awscliv2.zip
+
+# Environment files
+.env
+
+# Jupyter or VSCode temp files (optional, but good practice)
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
